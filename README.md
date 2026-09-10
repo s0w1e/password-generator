@@ -20,7 +20,7 @@ Es nutzt das `secrets`-Modul für kryptografisch starke Zufälligkeit.
 1. Repository klonen:
 
    ```bash
-   git clone https://github.com/DEIN_USER/password-generator.git
+   git clone https://github.com/s0w1e/password-generator.git
    cd password-generator
    ```
 
